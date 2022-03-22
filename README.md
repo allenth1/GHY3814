@@ -1,0 +1,1 @@
+The purpose of this application is to show the population density in each current city across the United States.  The data used is from the US Census Bureau and describes the population density in each city.  The design and symbolization used shows how large each city's population in when compared to its neighbors, giving off the feel of an overcrowded county, which we are. 
